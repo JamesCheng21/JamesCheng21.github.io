@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About me
+title: 
 subtitle: Enabling intelligent and high-performance buildings by integrating machine learning and digital twins
 ---
 
-My name is Sicheng Zhan, and my friends usually call me James. I am a postdoc at MIT working with <a href="https://architecture.mit.edu/people/les-norford">Prof. Les Norford</a>. I completed my PhD and spent 1.5 year as a research fellow at <a href="https://cde.nus.edu.sg/dbe/">the Department of Built Environment, NUS</a>, working in <a href="https://ideaslab.io/"> the Lab of Integrated Data, Energy Analysis + Simulation (IDEAS)</a>, led by <a href="https://cde.nus.edu.sg/dbe/wp-content/uploads/sites/26/2023/02/Staff-Resume-Dr-Adrian-Chong.pdf">Dr. Adrian Chong</a>. Before NUS, I did a MS in <a href="https://www.cmu.edu/cee/research/ais-research.html">Advanced Infrastructure System</a> at <a href='https://www.cmu.edu/cee/index.html'>Carnegie Mellon University</a> and a BS in Energy and Environment Systems Engineering at <a href='https://www.topuniversities.com/universities/zhejiang-university'>Zhejiang University</a>.
+I am a Postdoctoral Associate in the Building Technology Program at the Department of Architecture, MIT. Before MIT, I obtained my PhD in the built environment at the National University of Singapore, MS in advanced infrastructure system at Carnegie Mellon University, and BS in energy systems at Zhejiang University. 
 
-My work is centered around buildings, which host over 90% of our daily lives and have considerable potential for carbon reduction. Pursuing a more comfortable, intelligent, and energy-efficient built environment, my research interest lies in the intersection of building science and cutting-edge computational technology, including machine learning, physics-based modeling, and optimization. I specifically emphasize on the practical value of research outcomes, and closely collaborate with our industrial partners, such as <a href='https://www.merl.com/'>Mitsubishi Electric Research Laboratories<a/>, <a href='https://www.kajima.co.jp/english/tech/katris/index.html'>Kajima Technical Research Institute<a/>, and <a href='https://www.johnsoncontrols.com/en_sg'>Johnson Controls</a>.
+[My research](/research) focuses on improving the energy efficiency and sustainability of urban energy systems, using digital twins that integrate physics-informed models and real-world data. In the era of AI and energy transition, my work is guided by two central research questions: how can emerging computational methods accelerate the transition to zero-carbon cities, and how can we develop more sustainable AI infrastructure as part of this transition.
 
-Outside of the built environment, I am an enthusiast for basketball and wild nature. I explore the earth by photography, mountaineering, and scuba diving.
+Over the years, I've built long-term collaborations with outstanding colleagues across leading institutions worldwide, including MIT, Cambridge, LBNL, Tsinghua, NUS, etc. My research places strong emphasis on practical impact, and I work closely with industry partners such as Tencent, Trane Technologies, Schneider Electric, Mitsubishi Electric Research Laboratories, and Kajima Technical Research Institute.
+
+Outside of sustainable and intelligent cities, I am an enthusiast for basketball and wild nature. I explore the earth by [photography](/photos), mountaineering, and scuba diving.
