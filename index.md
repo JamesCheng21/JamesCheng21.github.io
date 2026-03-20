@@ -7,7 +7,7 @@ cover-img:
 ---
 
 <div style="border-left: 4px solid #007acc; padding: 12px; background: #f5faff; margin: 20px 0;">
-I'll join the University of Hong Kong as a tenure-track assistant professor in the Department of Civil Engineering in Fall 2026. I am recruiting multiple fully funded PhD and postdoctoral positions in sustainable urban energy systems, decision-oriented digital twins, and low-carbon AI infrastructure. <a href="/hire">More details here >></a>
+I'll join the University of Hong Kong as a tenure-track assistant professor in the Department of Civil Engineering in Fall 2026. I am recruiting multiple fully funded PhD and postdoctoral positions in <b>sustainable urban energy systems, decision-oriented digital twins, and low-carbon AI infrastructure</b>. <a href="/hire">More details here >></a>
 </div>
 
 

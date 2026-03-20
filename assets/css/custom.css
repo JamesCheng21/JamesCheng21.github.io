@@ -20,8 +20,10 @@
 }
 
 .photo-gallery img {
-  height: 320px;
+  height: auto;
   width: auto;
+  max-width: 85vw;
+  max-height: 30vh;
   border-radius: 10px;
   flex: 0 0 auto;
   object-fit: cover;
