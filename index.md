@@ -7,18 +7,15 @@ cover-img:
 ---
 
 <div style="border-left: 4px solid #007acc; padding: 12px; background: #f5faff; margin: 20px 0;">
-I'll join the University of Hong Kong as a tenure-track assistant professor in the Department of Civil Engineering in Fall 2026. I am recruiting multiple fully funded PhD and postdoctoral positions in <b>sustainable urban energy systems, decision-oriented digital twins, and low-carbon AI infrastructure</b>. <a href="/hire">More details here >></a>
+I'll join the University of Hong Kong as a tenure-track assistant professor in the Department of Civil Engineering in Fall 2026. I am recruiting multiple fully funded PhD and postdoctoral positions in <b>sustainable building energy systems, decision-oriented digital twins, and low-carbon AI infrastructure</b>. <a href="/hire">More details here >></a>
 </div>
 
 
-I am a Postdoctoral Associate at MIT Building Technology, working on sustainable and intelligent urban energy systems using data-efficient computational methods. With over a decade of multi-continental research experience, I develop scalable, decision-oriented digital twins to address scientific and practical challenges in the transition to zero-carbon cities. <a href="/aboutme">More about me >></a><br>
+I am a Postdoctoral Associate at MIT Building Technology, working on sustainable and intelligent building energy systems using data-efficient computational methods. With over a decade of multi-continental research experience, I develop scalable, decision-oriented digital twins to address scientific and practical challenges in the transition to zero-carbon cities. <a href="/aboutme">More about me >></a><br>
 
 <h3>Research</h3>
 
-
-Enabled by the rapid expansion of sensing and data infrastructure, AI and machine-learning methods are increasingly used to improve how buildings are designed and operated, reducing energy use while maintaining comfort and functionality. At the same time, the rapid growth of AI has drawn attention to the soaring energy demand of data centers, which places increasing pressure on electricity grids and contributes to rising carbon emissions. Beyond improving data center efficiency alone, new opportunities are emerging at the interface between AI infrastructure and the built environment, including closer integration between data centers and surrounding buildings to enable energy sharing and carbon reduction. This talk introduces example applications from both sides of this interaction, highlighting key challenges and emerging opportunities in using AI and the built environment together to address climate challenges.
-
-<a href="/research">More about research >></a><br>
+The rapid expansion of sensing and computational systems has promised to optimize how buildings are designed and operated, supporting the transition toward smart and zero-carbon cities. However, the <em>heterogeneity and data-sparse</em> nature of existing buildings limit the scalability of many lab-developed solutions. At the same time, the growth of AI has drawn attention to the soaring energy demand of data centers, placing pressure on power systems and contributing to rising carbon emissions. My research sits at the intersection of building energy systems and computational technologies, aiming both to unlock the potential of advanced computing to <em>accelerate urban energy transition</em> and to develop <em>sustainable AI infrastructure</em> as an integral component of future cities. <a href="/research">More about research >></a><br>
 
 <h3>News</h3>
 <ul>

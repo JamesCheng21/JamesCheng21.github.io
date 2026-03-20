@@ -46,7 +46,7 @@ layout: page
 <script>
 function scrollGallery(direction, id='photoGallery') {
   const gallery = document.getElementById(id);
-  const scrollAmount = gallery.clientWidth * 0.95;
+  const scrollAmount = gallery.clientWidth * 0.8;
   gallery.scrollBy({
     left: direction * scrollAmount,
     behavior: 'smooth'

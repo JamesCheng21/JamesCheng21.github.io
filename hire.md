@@ -6,6 +6,9 @@ I'm excited to build a team at the University of Hong Kong and am actively looki
 
 ### PhD Student
 
+Applicants for fully-funded PhD positions should hold a Bachelor's or Master's degree in Energy Engineering, Civil Engineering, Mechanical Engineering, Computer Engineering, Data Science, or a relevant field. Strong motivation and curiosity, along with excellent English communication and writing skills, are essential. Students will have access to substantial resources to explore impactful research directions, receive close mentorship for academic or professional development, and engage in collaborations with world-leading academic and industry partners.
+
+
 HKU offers a range of scholarships for outstanding graduate students. Applicants are encouraged to explore and [apply](https://gradsch.hku.hk/prospective_students/application/how_to_apply) for the following schemes:
 
 - [Postgraduate Scholarship](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)
@@ -15,11 +18,11 @@ HKU offers a range of scholarships for outstanding graduate students. Applicants
 To express interest, please [email me](szhan@mit.edu) with your CV and a personal statement describing your research interests, relevant experience, and how your background aligns with my research focus.
 ### Post-doctoral Fellow
 
-Postdoct applicants are expected to have a demonstrated record of research excellence and be moderately independent. You will have opportunities to lead research directions, mentor junior researchers, and contribute to grant proposals. I will work closely with you to advance projects, build collaborations, and support your career development, with the goal of preparing you for your next faculty or research position. Currently, these positions are open until filled:
+Postdoct applicants are expected to have a demonstrated record of research excellence and be moderately independent. You will have opportunities to lead research directions, mentor junior researchers, and contribute to grant proposals. I will work closely with you to advance projects, build collaborations, and support your career development, with the goal of preparing you for your next faculty or research position. Currently, these positions are open until filled (see job description for more details):
 
 <div style="border-left: 4px solid #ffd333; padding: 12px; background: #fffcd1; margin: 20px 0;"><ul>
-<li><a href="/assets/pdf/JD/postdoc_DCWHR.pdf">Post-doctoral Fellow (Data center waste heat reuse)</a></li>
-<li><a href="/assets/pdf/JD/postdoc_retrofit.pdf">Post-doctoral Fellow (Energy audit intelligence)</a></li>
+<li>Post-doctoral Fellow in data center waste heat reuse <a href="/assets/pdf/JD/postdoc_DCWHR.pdf">(job description)</a></li>
+<li>Post-doctoral Fellow in energy audit intelligence <a href="/assets/pdf/JD/postdoc_retrofit.pdf">(job description)</a></li>
 </ul></div>
 
 To apply, please [email me](szhan@mit.edu) with your CV and a cover letter tailored to the role, which should clearly demonstrate with concrete evidence how your experience and expertise matches the job descriptions, especially the qualifications and skills required for the position.

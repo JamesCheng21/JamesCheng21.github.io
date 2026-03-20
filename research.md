@@ -7,6 +7,13 @@ title:
   Sustainable Intelligence Nexus Lab
 </h1>
 
+The rapid expansion of sensing and computational systems has promised to optimize how buildings are designed and operated, supporting the transition toward smart and zero-carbon cities. However, the <em>heterogeneity and data-sparse</em> nature of existing buildings limit the scalability of many lab-developed solutions. At the same time, the growth of AI has drawn attention to the soaring energy demand of data centers, placing pressure on power systems and contributing to rising carbon emissions. My research sits at the intersection of building energy systems and computational technologies, aiming both to unlock the potential of advanced computing to <em>accelerate urban energy transition</em> and to develop <em>sustainable AI infrastructure</em> as an integral component of future cities. 
+
+My research is organized into three interrelated directions:
+- **Sustainable building energy systems**: advancing the design and operation of buildings and district energy networks to improve energy efficiency, flexibility, and integration with low-carbon energy sources
+- **Data-centric and decision-oriented digital twins**: developing scalable digital twin frameworks that integrate physics-informed models with active-learned real-world data to enable reliable prediction, optimization, and decision-making under uncertainty
+- **Low-carbon AI infrastructure**: reducing the energy and environmental footprint of AI through efficient data center operation and integration with urban energy systems, supported by techno-economic analysis to assess performance, cost, and deployment feasibility
+
 ![framework](/assets/img/framework.jpg)
 
 Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=XvWcVvUAAAAJ).
