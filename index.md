@@ -15,7 +15,7 @@ I am a Postdoctoral Associate at MIT Building Technology, working on sustainable
 
 <h3>Research</h3>
 
-My research sits at the intersection of building energy systems and computational technologies, aiming both to unlock the potential of advanced computing to <em>accelerate urban energy transition</em> and to develop <em>sustainable AI infrastructure</em> as an integral component of future cities. <a href="/research">More about research >></a><br>
+My research sits at the intersection of building energy systems and computational technologies, aiming both to unlock the potential of smart buildings to <em>accelerate urban energy transition</em> and to develop <em>sustainable AI infrastructure</em> as an integral component of future cities. <a href="/research">More about research >></a><br>
 
 <h3>News</h3>
 <ul>
