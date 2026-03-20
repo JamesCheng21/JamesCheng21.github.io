@@ -38,6 +38,7 @@ Peer-review
 - Scientific Report
 - Applied Energy
 - Energy Conversion and Management
+- Engineering Applications of Artificial Intelligence
 - Building and Environment
 - Journal of Building Engineering
 - Energy and Building
