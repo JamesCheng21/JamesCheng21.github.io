@@ -6,6 +6,7 @@ title: ""
 Invited Talks
 ---
 
+- When simulation meets reality: model calibration ~~and~~ for downstream applications, *Carnegie Mellon University Building Performance and Diagnostics, Mar 2026*[[Slides]](/assets/slides/260326_CMUBPM.pdf){: .btn}
 - Decision-oriented Digital Twins for Intelligent and Sustainable Urban Energy Systems, *Cambridge Sustainable Design Group, Mar 2026*[[Slides]](/assets/slides/260306_cambridge.pdf){: .btn}
 - Revisiting MPC for HVAC control using BOPTEST, *IBPSA BOPTEST Webinar, Feb 2026*[[Slides]](/assets/slides/260205_boptest.pdf){: .btn}
 - How AI and the Built Environment Shape Each Other, *MIT IAP Sustainable AI, Jan 2026*[[Slides]](/assets/slides/260116_sust_ai.pdf){: .btn}
