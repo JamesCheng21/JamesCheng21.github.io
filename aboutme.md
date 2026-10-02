@@ -4,7 +4,7 @@ title:
 subtitle: Enabling intelligent and high-performance buildings by integrating machine learning and digital twins
 ---
 
-I am a Postdoctoral Associate in the Building Technology Program at the Department of Architecture, MIT. Before MIT, I obtained my PhD in the built environment at the National University of Singapore, MS in advanced infrastructure system at Carnegie Mellon University, and BS in energy systems at Zhejiang University. 
+I am an assistant professor in the Department of Civil Engineering at the University of Hong Kong. Before HKU, I was a Postdoctoral Associate in the Building Technology Program at the Department of Architecture, MIT. I obtained my PhD in the built environment at the National University of Singapore, MS in advanced infrastructure system at Carnegie Mellon University, and BS in energy systems at Zhejiang University. 
 
 [My research](/research) focuses on improving the energy efficiency and sustainability of building energy systems, using digital twins that integrate physics-informed models and real-world data. In the era of AI and energy transition, my work is guided by two central research questions: how can emerging computational methods accelerate the transition to zero-carbon cities, and how can we develop more sustainable AI infrastructure as part of this transition.
 

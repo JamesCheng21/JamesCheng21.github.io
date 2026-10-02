@@ -7,11 +7,11 @@ cover-img:
 ---
 
 <div style="border-left: 4px solid #007acc; padding: 12px; background: #f5faff; margin: 20px 0;">
-I'll join the University of Hong Kong as a tenure-track assistant professor in the Department of Civil Engineering in Fall 2026. I am recruiting multiple fully funded PhD and postdoctoral positions in <b>sustainable building energy systems, decision-oriented digital twins, and low-carbon AI infrastructure</b>. <a href="/join">More details here >></a>
+The SUITE Lab at HKU is actively recruiting fully funded PhD students in <b>sustainable building energy systems, decision-oriented digital twins, and low-carbon AI infrastructure</b>. <a href="/join">More details here >></a>
 </div>
 
 
-I am a Postdoctoral Associate at MIT Building Technology, working on sustainable and intelligent building energy systems using data-efficient computational methods. With over a decade of multi-continental research experience, I develop scalable, decision-oriented digital twins to address scientific and practical challenges in the transition to zero-carbon cities. <a href="/aboutme">More about me >></a><br>
+I am an assistant professor in the Department of Civil Engineering at the University of Hong Kong, working on sustainable and intelligent urban energy systems using data-efficient computational methods. With over a decade of multi-continental research experience, I develop scalable, decision-oriented digital twins to address scientific and practical challenges in the transition to zero-carbon cities. <a href="/aboutme">More about me >></a><br>
 
 <h3>Research</h3>
 

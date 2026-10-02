@@ -3,6 +3,19 @@ layout: page
 ---
 
 <div class="photo-gallery-wrapper">
+  <button class="gallery-nav left" onclick="scrollGallery(-1,'photoGallery_banff')">&#10094;</button>
+
+  <div class="photo-gallery" id="photoGallery_banff">
+    {% for item in site.data.photos_banff %}
+      <img src="{{ item.src | relative_url }}">
+    {% endfor %}
+  </div>
+
+  <button class="gallery-nav right" onclick="scrollGallery(1,'photoGallery_banff')">&#10095;</button>
+</div>
+<h6 style="text-align: center;">Canadian Rockies</h6>
+
+<div class="photo-gallery-wrapper">
   <button class="gallery-nav left" onclick="scrollGallery(-1,'photoGallery_uk')">&#10094;</button>
 
   <div class="photo-gallery" id="photoGallery_uk">

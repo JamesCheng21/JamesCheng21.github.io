@@ -15,4 +15,4 @@ subtitle:
   </li>
 {% endfor %}
 </ul>
-<p><a>Updates since summer 2025.</a></p>
+<p><a>Updates from summer 2025 to summer 2026.</a></p>
